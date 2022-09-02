@@ -1,0 +1,6 @@
+You have to create a site search using JS
+first you have to create an object with nested objects
+
+second you have to render its keys on html
+thrid allow users to select or search through it 
+then render the searched data on HTML/DOM
